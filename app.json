@@ -1,9 +1,9 @@
 {
-  "name": "WhatsGram",
+  "name": "Aliyevatör",
   "description": "Yet another userbot for WhatsApp.",
   "keywords": ["WhatsApp", "Telegram", "Userbot", "NodeJs"],
-  "repository": "https://github.com/WhatsGram/WhatsGram",
-  "website": "https://t.me/AffanTheBest",
+  "repository": "https://github.com/aliyefhx/Aliyevat-r",
+  "website": "https://t.me/toolloper_sos",
   "scripts": {
     "worker": "npm start"
   },
