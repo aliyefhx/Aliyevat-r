@@ -1,4 +1,4 @@
-  <a href="https://github.com/aliyefhx/Aliyevat-r"><img src="https://telegra.ph/file/6196eea17a9913bcf458f.png" alt="Aliyevatör" width="290"></a>
+  <a href="https://github.com/aliyefhx/Aliyevat-r"><img src="https://telegra.ph/file/b5bc0b62b983dbde4c360.jpg" alt="Aliyevatör" width="290"></a>
   <br>
 <b>Aliyevatör</b>
 </h1>
